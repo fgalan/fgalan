@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Fermín Galán
 
+![](https://komarev.com/ghpvc/?username=fgalan)
+
 ![fgalan's github stats](https://github-readme-stats.vercel.app/api?username=fgalan)
 
 <!--
